@@ -38,8 +38,8 @@
   <a href = "https://www.instagram.com/mertronom9">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href = "https://discord.com/channels/@me/627541687798988811">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href = "https://x.com/9ABDULLAH9A">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJJ62qMaMnFzq8HNn-n9e9ByqVro1BOoghCQ&s" height="35" alt="twitter logo"  />
   </a>
   <a href = "https://mail.google.com/mail/?view=cm&fs=1&to=68.mertabdullah@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
