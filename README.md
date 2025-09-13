@@ -1,5 +1,10 @@
 <h2 align="left">Hi 👋! My name is Mert and I'm software lead at Yıldız Rocket Team</h2>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=9abdullah9&label=Profile%20views&color=0e75b6&style=flat" alt="9abdullah9" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=9abdullah9" alt="9abdullah9" /></a> </p>
+
 ###
 
 <div align="center">
