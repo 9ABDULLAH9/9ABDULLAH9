@@ -14,7 +14,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://www.google.com.tr/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fdeveloper-gifs&psig=AOvVaw3w3JxERJrVPcY82BTbEV_S&ust=1764500118255000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDgi62Zl5EDFQAAAAAdAAAAABAX)"  />
 
 ###
 
